@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "321485831268",
+    "firebase_url": "https://online-shopping-a5f57.firebaseio.com",
+    "project_id": "online-shopping-a5f57",
+    "storage_bucket": "online-shopping-a5f57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321485831268:android:63aea22af24188ae09b371",
+        "android_client_info": {
+          "package_name": "com.kohtee.online_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321485831268-o0j44vbofpr96sipn021ug1me57l4rp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kohtee.online_shopping",
+            "certificate_hash": "426c9096a4a5afe1e19338b0562bcdbdc0240cc6"
+          }
+        },
+        {
+          "client_id": "321485831268-0i2u3s35qgu29bslfkh44f7gkr94nnaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr0zIMnBTbVufN8m0GJJY2iSK0oVXrdI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321485831268-0i2u3s35qgu29bslfkh44f7gkr94nnaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
